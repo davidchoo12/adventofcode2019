@@ -1,0 +1,1016 @@
+{'TXDQK': 4, 'TNZT': 55, 'KDTG': 39, 'NVBH': 6, 'SDVMB': 15, 'XVKHV': 53, 'FKHRJ': 28}
+fd_chem TXDQK, fd_amount 4, reaction_count 1
+7 TXDQK <= 9 ZKFRH, 4 XGPLN, 17 SPQP, 2 GVNTZ, 1 JMSCN, 9 SHQN, 1 DZLWC, 18 MSKQ
+new_fuel_deps[ZKFRH] 9, new_fuel_deps[TXDQK] -3
+new_fuel_deps[XGPLN] 4, new_fuel_deps[TXDQK] -3
+new_fuel_deps[SPQP] 17, new_fuel_deps[TXDQK] -3
+new_fuel_deps[GVNTZ] 2, new_fuel_deps[TXDQK] -3
+new_fuel_deps[JMSCN] 1, new_fuel_deps[TXDQK] -3
+new_fuel_deps[SHQN] 9, new_fuel_deps[TXDQK] -3
+new_fuel_deps[DZLWC] 1, new_fuel_deps[TXDQK] -3
+new_fuel_deps[MSKQ] 18, new_fuel_deps[TXDQK] -3
+fd_chem TNZT, fd_amount 55, reaction_count 14
+4 TNZT <= 1 CDKV, 6 KJCK
+new_fuel_deps[CDKV] 14, new_fuel_deps[TNZT] -1
+new_fuel_deps[KJCK] 84, new_fuel_deps[TNZT] -1
+fd_chem KDTG, fd_amount 39, reaction_count 5
+9 KDTG <= 5 ZTBG, 1 HVZQM, 27 CDKV, 1 LHTNC, 2 RTSBT, 2 SHQN, 26 DZLWC
+new_fuel_deps[ZTBG] 25, new_fuel_deps[KDTG] -6
+new_fuel_deps[HVZQM] 5, new_fuel_deps[KDTG] -6
+new_fuel_deps[CDKV] 149, new_fuel_deps[KDTG] -6
+new_fuel_deps[LHTNC] 5, new_fuel_deps[KDTG] -6
+new_fuel_deps[RTSBT] 10, new_fuel_deps[KDTG] -6
+new_fuel_deps[SHQN] 19, new_fuel_deps[KDTG] -6
+new_fuel_deps[DZLWC] 131, new_fuel_deps[KDTG] -6
+fd_chem NVBH, fd_amount 6, reaction_count 6
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 167, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] 66, new_fuel_deps[NVBH] 0
+fd_chem SDVMB, fd_amount 15, reaction_count 2
+8 SDVMB <= 2 ZKFRH, 9 HVZQM, 1 KJCK, 3 GQRB, 11 DBLGK, 8 DZLWC, 2 SPQP, 5 RNXJ
+new_fuel_deps[ZKFRH] 13, new_fuel_deps[SDVMB] -1
+new_fuel_deps[HVZQM] 23, new_fuel_deps[SDVMB] -1
+new_fuel_deps[KJCK] 86, new_fuel_deps[SDVMB] -1
+new_fuel_deps[GQRB] 6, new_fuel_deps[SDVMB] -1
+new_fuel_deps[DBLGK] 22, new_fuel_deps[SDVMB] -1
+new_fuel_deps[DZLWC] 147, new_fuel_deps[SDVMB] -1
+new_fuel_deps[SPQP] 21, new_fuel_deps[SDVMB] -1
+new_fuel_deps[RNXJ] 10, new_fuel_deps[SDVMB] -1
+fd_chem XVKHV, fd_amount 53, reaction_count 11
+5 XVKHV <= 13 XMCNV
+new_fuel_deps[XMCNV] 143, new_fuel_deps[XVKHV] -2
+fd_chem FKHRJ, fd_amount 28, reaction_count 6
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 144, new_fuel_deps[FKHRJ] -2
+{'TXDQK': -3, 'ZKFRH': 13, 'XGPLN': 4, 'SPQP': 21, 'GVNTZ': 2, 'JMSCN': 1, 'SHQN': 19, 'DZLWC': 147, 'MSKQ': 18, 'TNZT': -1, 'CDKV': 167, 'KJCK': 86, 'KDTG': -6, 'ZTBG': 25, 'HVZQM': 23, 'LHTNC': 5, 'RTSBT': 10, 'NVBH': 0, 'FGCV': 66, 'SDVMB': -1, 'GQRB': 6, 'DBLGK': 22, 'RNXJ': 10, 'XVKHV': -2, 'XMCNV': 143, 'FKHRJ': -2, 'BMQM': 144}
+fd_chem ZKFRH, fd_amount 13, reaction_count 2
+7 ZKFRH <= 1 NMDF, 16 DBLGK, 1 HVZQM
+new_fuel_deps[NMDF] 2, new_fuel_deps[ZKFRH] -1
+new_fuel_deps[DBLGK] 54, new_fuel_deps[ZKFRH] -1
+new_fuel_deps[HVZQM] 25, new_fuel_deps[ZKFRH] -1
+fd_chem XGPLN, fd_amount 4, reaction_count 1
+8 XGPLN <= 2 GSRWZ
+new_fuel_deps[GSRWZ] 2, new_fuel_deps[XGPLN] -4
+fd_chem SPQP, fd_amount 21, reaction_count 3
+9 SPQP <= 15 SPNRW, 4 GQRB
+new_fuel_deps[SPNRW] 45, new_fuel_deps[SPQP] -6
+new_fuel_deps[GQRB] 18, new_fuel_deps[SPQP] -6
+fd_chem GVNTZ, fd_amount 2, reaction_count 1
+7 GVNTZ <= 13 QWMZQ, 19 FCFG
+new_fuel_deps[QWMZQ] 13, new_fuel_deps[GVNTZ] -5
+new_fuel_deps[FCFG] 19, new_fuel_deps[GVNTZ] -5
+fd_chem JMSCN, fd_amount 1, reaction_count 1
+7 JMSCN <= 5 SPNRW
+new_fuel_deps[SPNRW] 50, new_fuel_deps[JMSCN] -6
+fd_chem SHQN, fd_amount 19, reaction_count 3
+7 SHQN <= 11 CDKV
+new_fuel_deps[CDKV] 200, new_fuel_deps[SHQN] -2
+fd_chem DZLWC, fd_amount 147, reaction_count 30
+5 DZLWC <= 5 NMDF, 1 TFKZ
+new_fuel_deps[NMDF] 152, new_fuel_deps[DZLWC] -3
+new_fuel_deps[TFKZ] 30, new_fuel_deps[DZLWC] -3
+fd_chem MSKQ, fd_amount 18, reaction_count 3
+7 MSKQ <= 1 GQRB
+new_fuel_deps[GQRB] 21, new_fuel_deps[MSKQ] -3
+fd_chem CDKV, fd_amount 167, reaction_count 21
+8 CDKV <= 2 JPZT
+new_fuel_deps[JPZT] 42, new_fuel_deps[CDKV] 32
+fd_chem KJCK, fd_amount 86, reaction_count 13
+7 KJCK <= 16 JPZT, 3 DCPW
+new_fuel_deps[JPZT] 250, new_fuel_deps[KJCK] -5
+new_fuel_deps[DCPW] 39, new_fuel_deps[KJCK] -5
+fd_chem ZTBG, fd_amount 25, reaction_count 4
+7 ZTBG <= 2 LHTNC, 6 FCFG, 5 GVNTZ
+new_fuel_deps[LHTNC] 13, new_fuel_deps[ZTBG] -3
+new_fuel_deps[FCFG] 43, new_fuel_deps[ZTBG] -3
+new_fuel_deps[GVNTZ] 15, new_fuel_deps[ZTBG] -3
+fd_chem HVZQM, fd_amount 23, reaction_count 3
+9 HVZQM <= 12 LGKPJ, 8 FKHRJ
+new_fuel_deps[LGKPJ] 36, new_fuel_deps[HVZQM] -2
+new_fuel_deps[FKHRJ] 22, new_fuel_deps[HVZQM] -2
+fd_chem LHTNC, fd_amount 5, reaction_count 1
+5 LHTNC <= 1 KRDGK, 2 GQRB, 12 TFKZ
+new_fuel_deps[KRDGK] 1, new_fuel_deps[LHTNC] 8
+new_fuel_deps[GQRB] 23, new_fuel_deps[LHTNC] 8
+new_fuel_deps[TFKZ] 42, new_fuel_deps[LHTNC] 8
+fd_chem RTSBT, fd_amount 10, reaction_count 2
+6 RTSBT <= 1 TNZT
+new_fuel_deps[TNZT] 1, new_fuel_deps[RTSBT] -2
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 32, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] 66, new_fuel_deps[NVBH] 0
+fd_chem FGCV, fd_amount 66, reaction_count 11
+6 FGCV <= 1 BMQM
+new_fuel_deps[BMQM] 155, new_fuel_deps[FGCV] 0
+fd_chem GQRB, fd_amount 6, reaction_count 1
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -4, new_fuel_deps[GQRB] 16
+new_fuel_deps[TFKZ] 43, new_fuel_deps[GQRB] 16
+new_fuel_deps[XNSVC] 2, new_fuel_deps[GQRB] 16
+fd_chem DBLGK, fd_amount 22, reaction_count 3
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] 3, new_fuel_deps[DBLGK] 27
+fd_chem RNXJ, fd_amount 10, reaction_count 2
+7 RNXJ <= 24 LGKPJ, 11 CDKF, 2 HVZQM
+new_fuel_deps[LGKPJ] 84, new_fuel_deps[RNXJ] -4
+new_fuel_deps[CDKF] 22, new_fuel_deps[RNXJ] -4
+new_fuel_deps[HVZQM] 2, new_fuel_deps[RNXJ] -4
+fd_chem XMCNV, fd_amount 143, reaction_count 16
+9 XMCNV <= 3 SPNRW, 7 JMSCN
+new_fuel_deps[SPNRW] 98, new_fuel_deps[XMCNV] -1
+new_fuel_deps[JMSCN] 106, new_fuel_deps[XMCNV] -1
+fd_chem BMQM, fd_amount 144, reaction_count 24
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 120, new_fuel_deps[BMQM] 11
+new_fuel_deps[XVLBX] 24, new_fuel_deps[BMQM] 11
+{'ZKFRH': -1, 'NMDF': 152, 'DBLGK': 27, 'HVZQM': 2, 'XGPLN': -4, 'GSRWZ': 2, 'SPQP': -6, 'SPNRW': 98, 'GQRB': 16, 'GVNTZ': 15, 'QWMZQ': 13, 'FCFG': 43, 'JMSCN': 106, 'SHQN': -2, 'CDKV': 32, 'DZLWC': -3, 'TFKZ': 43, 'MSKQ': -3, 'JPZT': 250, 'KJCK': -4, 'DCPW': 39, 'ZTBG': -3, 'LHTNC': 8, 'LGKPJ': 84, 'FKHRJ': 22, 'KRDGK': 1, 'RTSBT': -2, 'TNZT': 1, 'NVBH': 0, 'FGCV': 0, 'BMQM': 11, 'XNSVC': 2, 'CWKH': 3, 'RNXJ': -4, 'CDKF': 22, 'XMCNV': -1, 'QPSDR': 120, 'XVLBX': 24}
+fd_chem NMDF, fd_amount 152, reaction_count 76
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 76, new_fuel_deps[NMDF] 0
+fd_chem DBLGK, fd_amount 27, reaction_count 3
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] 6, new_fuel_deps[DBLGK] 0
+fd_chem HVZQM, fd_amount 2, reaction_count 1
+9 HVZQM <= 12 LGKPJ, 8 FKHRJ
+new_fuel_deps[LGKPJ] 96, new_fuel_deps[HVZQM] -7
+new_fuel_deps[FKHRJ] 30, new_fuel_deps[HVZQM] -7
+fd_chem GSRWZ, fd_amount 2, reaction_count 1
+4 GSRWZ <= 3 KPQPD
+new_fuel_deps[KPQPD] 3, new_fuel_deps[GSRWZ] -2
+fd_chem SPNRW, fd_amount 98, reaction_count 33
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 495, new_fuel_deps[SPNRW] -1
+new_fuel_deps[PQVBV] 66, new_fuel_deps[SPNRW] -1
+new_fuel_deps[SRGL] 66, new_fuel_deps[SPNRW] -1
+fd_chem GQRB, fd_amount 16, reaction_count 3
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -1, new_fuel_deps[GQRB] -5
+new_fuel_deps[TFKZ] 46, new_fuel_deps[GQRB] -5
+new_fuel_deps[XNSVC] 8, new_fuel_deps[GQRB] -5
+fd_chem GVNTZ, fd_amount 15, reaction_count 3
+7 GVNTZ <= 13 QWMZQ, 19 FCFG
+new_fuel_deps[QWMZQ] 52, new_fuel_deps[GVNTZ] -6
+new_fuel_deps[FCFG] 100, new_fuel_deps[GVNTZ] -6
+fd_chem QWMZQ, fd_amount 13, reaction_count 4
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] 2, new_fuel_deps[QWMZQ] 36
+new_fuel_deps[XNSVC] 36, new_fuel_deps[QWMZQ] 36
+fd_chem FCFG, fd_amount 43, reaction_count 22
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] 66, new_fuel_deps[FCFG] 56
+new_fuel_deps[QWMZQ] 124, new_fuel_deps[FCFG] 56
+fd_chem JMSCN, fd_amount 106, reaction_count 16
+7 JMSCN <= 5 SPNRW
+new_fuel_deps[SPNRW] 79, new_fuel_deps[JMSCN] -6
+fd_chem CDKV, fd_amount 32, reaction_count 4
+8 CDKV <= 2 JPZT
+new_fuel_deps[JPZT] 258, new_fuel_deps[CDKV] 0
+fd_chem TFKZ, fd_amount 43, reaction_count 15
+3 TFKZ <= 1 JPZT
+new_fuel_deps[JPZT] 273, new_fuel_deps[TFKZ] 1
+fd_chem JPZT, fd_amount 250, reaction_count 28
+9 JPZT <= 2 QFTW
+new_fuel_deps[QFTW] 56, new_fuel_deps[JPZT] 21
+fd_chem DCPW, fd_amount 39, reaction_count 5
+9 DCPW <= 24 FKHRJ
+new_fuel_deps[FKHRJ] 150, new_fuel_deps[DCPW] -6
+fd_chem LHTNC, fd_amount 8, reaction_count 2
+5 LHTNC <= 1 KRDGK, 2 GQRB, 12 TFKZ
+new_fuel_deps[KRDGK] 3, new_fuel_deps[LHTNC] -2
+new_fuel_deps[GQRB] -1, new_fuel_deps[LHTNC] -2
+new_fuel_deps[TFKZ] 25, new_fuel_deps[LHTNC] -2
+fd_chem LGKPJ, fd_amount 84, reaction_count 84
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] 336, new_fuel_deps[LGKPJ] 12
+new_fuel_deps[PQVBV] 486, new_fuel_deps[LGKPJ] 12
+fd_chem FKHRJ, fd_amount 22, reaction_count 5
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 131, new_fuel_deps[FKHRJ] 125
+fd_chem KRDGK, fd_amount 1, reaction_count 1
+6 KRDGK <= 9 KJCK, 6 MHQVS, 5 NVBH
+new_fuel_deps[KJCK] 8, new_fuel_deps[KRDGK] -3
+new_fuel_deps[MHQVS] 6, new_fuel_deps[KRDGK] -3
+new_fuel_deps[NVBH] 5, new_fuel_deps[KRDGK] -3
+fd_chem TNZT, fd_amount 1, reaction_count 1
+4 TNZT <= 1 CDKV, 6 KJCK
+new_fuel_deps[CDKV] 1, new_fuel_deps[TNZT] -3
+new_fuel_deps[KJCK] 14, new_fuel_deps[TNZT] -3
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 1, new_fuel_deps[NVBH] 5
+new_fuel_deps[FGCV] 0, new_fuel_deps[NVBH] 5
+fd_chem FGCV, fd_amount 0, reaction_count 0
+6 FGCV <= 1 BMQM
+new_fuel_deps[BMQM] 131, new_fuel_deps[FGCV] 0
+fd_chem BMQM, fd_amount 11, reaction_count 2
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 130, new_fuel_deps[BMQM] 119
+new_fuel_deps[XVLBX] 26, new_fuel_deps[BMQM] 119
+fd_chem XNSVC, fd_amount 2, reaction_count 1
+6 XNSVC <= 2 LFPNB
+new_fuel_deps[LFPNB] 2, new_fuel_deps[XNSVC] 30
+fd_chem CWKH, fd_amount 3, reaction_count 1
+5 CWKH <= 1 SPNRW
+new_fuel_deps[SPNRW] 80, new_fuel_deps[CWKH] 1
+fd_chem CDKF, fd_amount 22, reaction_count 3
+9 CDKF <= 18 LHTNC, 1 WGXGV
+new_fuel_deps[LHTNC] 52, new_fuel_deps[CDKF] -5
+new_fuel_deps[WGXGV] 339, new_fuel_deps[CDKF] -5
+fd_chem QPSDR, fd_amount 120, reaction_count 18
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 2304, new_fuel_deps[QPSDR] 4
+fd_chem XVLBX, fd_amount 24, reaction_count 4
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 3016, new_fuel_deps[XVLBX] 2
+{'NMDF': 0, 'BNZK': 76, 'DBLGK': 0, 'CWKH': 1, 'HVZQM': -7, 'LGKPJ': 12, 'FKHRJ': 125, 'GSRWZ': -2, 'KPQPD': 3, 'SPNRW': 80, 'ZRSFC': 495, 'PQVBV': 486, 'SRGL': 66, 'GQRB': -1, 'KJCK': 14, 'TFKZ': 25, 'XNSVC': 30, 'GVNTZ': -6, 'QWMZQ': 124, 'FCFG': 56, 'SHQN': 2, 'HMTC': 66, 'JMSCN': -6, 'CDKV': 1, 'JPZT': 21, 'QFTW': 56, 'DCPW': -6, 'LHTNC': 52, 'KRDGK': -3, 'WGXGV': 339, 'BMQM': 119, 'MHQVS': 6, 'NVBH': 5, 'TNZT': -3, 'FGCV': 0, 'QPSDR': 4, 'XVLBX': 2, 'LFPNB': 2, 'CDKF': -5, 'ORE': 3016}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 76, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 76, reaction_count 19
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 100, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] 781, new_fuel_deps[BNZK] 0
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] 1, new_fuel_deps[DBLGK] 0
+fd_chem CWKH, fd_amount 1, reaction_count 1
+5 CWKH <= 1 SPNRW
+new_fuel_deps[SPNRW] 81, new_fuel_deps[CWKH] -4
+fd_chem LGKPJ, fd_amount 12, reaction_count 12
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] 387, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 546, new_fuel_deps[LGKPJ] 0
+fd_chem FKHRJ, fd_amount 125, reaction_count 25
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 719, new_fuel_deps[FKHRJ] 0
+fd_chem KPQPD, fd_amount 3, reaction_count 1
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] 9, new_fuel_deps[KPQPD] -3
+fd_chem SPNRW, fd_amount 80, reaction_count 27
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 900, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 600, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] 120, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 495, reaction_count 55
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] 836, new_fuel_deps[ZRSFC] 405
+new_fuel_deps[XNSVC] 250, new_fuel_deps[ZRSFC] 405
+fd_chem PQVBV, fd_amount 486, reaction_count 81
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] 1134, new_fuel_deps[PQVBV] 114
+new_fuel_deps[CQLRM] 243, new_fuel_deps[PQVBV] 114
+new_fuel_deps[TFKZ] 106, new_fuel_deps[PQVBV] 114
+fd_chem SRGL, fd_amount 66, reaction_count 10
+7 SRGL <= 2 ZRSFC
+new_fuel_deps[ZRSFC] 425, new_fuel_deps[SRGL] 50
+fd_chem KJCK, fd_amount 14, reaction_count 2
+7 KJCK <= 16 JPZT, 3 DCPW
+new_fuel_deps[JPZT] 53, new_fuel_deps[KJCK] 0
+new_fuel_deps[DCPW] 0, new_fuel_deps[KJCK] 0
+fd_chem TFKZ, fd_amount 25, reaction_count 9
+3 TFKZ <= 1 JPZT
+new_fuel_deps[JPZT] 62, new_fuel_deps[TFKZ] 79
+fd_chem XNSVC, fd_amount 30, reaction_count 5
+6 XNSVC <= 2 LFPNB
+new_fuel_deps[LFPNB] 12, new_fuel_deps[XNSVC] 220
+fd_chem QWMZQ, fd_amount 124, reaction_count 31
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] 867, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] 437, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 56, reaction_count 28
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] 150, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 112, new_fuel_deps[FCFG] 0
+fd_chem SHQN, fd_amount 2, reaction_count 1
+7 SHQN <= 11 CDKV
+new_fuel_deps[CDKV] 12, new_fuel_deps[SHQN] 860
+fd_chem HMTC, fd_amount 66, reaction_count 10
+7 HMTC <= 5 XNPDM, 1 FGCV
+new_fuel_deps[XNPDM] 50, new_fuel_deps[HMTC] 80
+new_fuel_deps[FGCV] 1144, new_fuel_deps[HMTC] 80
+fd_chem CDKV, fd_amount 1, reaction_count 1
+8 CDKV <= 2 JPZT
+new_fuel_deps[JPZT] 64, new_fuel_deps[CDKV] 4
+fd_chem JPZT, fd_amount 21, reaction_count 3
+9 JPZT <= 2 QFTW
+new_fuel_deps[QFTW] 62, new_fuel_deps[JPZT] 37
+fd_chem QFTW, fd_amount 56, reaction_count 56
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 9512, new_fuel_deps[QFTW] 6
+fd_chem LHTNC, fd_amount 52, reaction_count 11
+5 LHTNC <= 1 KRDGK, 2 GQRB, 12 TFKZ
+new_fuel_deps[KRDGK] 8, new_fuel_deps[LHTNC] -3
+new_fuel_deps[GQRB] 21, new_fuel_deps[LHTNC] -3
+new_fuel_deps[TFKZ] 211, new_fuel_deps[LHTNC] -3
+fd_chem WGXGV, fd_amount 339, reaction_count 43
+8 WGXGV <= 1 CQLRM, 1 HMTC
+new_fuel_deps[CQLRM] 286, new_fuel_deps[WGXGV] 43
+new_fuel_deps[HMTC] 123, new_fuel_deps[WGXGV] 43
+fd_chem BMQM, fd_amount 119, reaction_count 20
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 109, new_fuel_deps[BMQM] 599
+new_fuel_deps[XVLBX] 22, new_fuel_deps[BMQM] 599
+fd_chem MHQVS, fd_amount 6, reaction_count 2
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] 862, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] 26, new_fuel_deps[MHQVS] 0
+fd_chem NVBH, fd_amount 5, reaction_count 5
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 19, new_fuel_deps[NVBH] 95
+new_fuel_deps[FGCV] 1199, new_fuel_deps[NVBH] 95
+fd_chem FGCV, fd_amount 0, reaction_count 0
+6 FGCV <= 1 BMQM
+new_fuel_deps[BMQM] 599, new_fuel_deps[FGCV] 1199
+fd_chem QPSDR, fd_amount 4, reaction_count 1
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 9640, new_fuel_deps[QPSDR] 102
+fd_chem XVLBX, fd_amount 2, reaction_count 1
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 9818, new_fuel_deps[XVLBX] 16
+fd_chem LFPNB, fd_amount 2, reaction_count 1
+8 LFPNB <= 9 JPZT
+new_fuel_deps[JPZT] 46, new_fuel_deps[LFPNB] 4
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 95, 'SHQN': 862, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'LGKPJ': 0, 'WGXGV': 43, 'PQVBV': 114, 'FKHRJ': 0, 'BMQM': 599, 'KPQPD': -3, 'QPSDR': 102, 'ZRSFC': 425, 'SRGL': 50, 'XNSVC': 437, 'FGCV': 1199, 'CQLRM': 286, 'TFKZ': 211, 'KJCK': 0, 'JPZT': 46, 'DCPW': 0, 'LFPNB': 4, 'QWMZQ': 112, 'FCFG': 0, 'HMTC': 123, 'CDKV': 19, 'XNPDM': 50, 'QFTW': 6, 'ORE': 9818, 'LHTNC': -3, 'KRDGK': 8, 'GQRB': 21, 'XVLBX': 16, 'MHQVS': 0, 'DSKH': 26}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 95, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] 862, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 95, reaction_count 95
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 304, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] 2244, new_fuel_deps[NVBH] 0
+fd_chem SHQN, fd_amount 862, reaction_count 124
+7 SHQN <= 11 CDKV
+new_fuel_deps[CDKV] 1668, new_fuel_deps[SHQN] -6
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 425, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 114, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] 50, new_fuel_deps[SPNRW] 0
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] 43, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 114, new_fuel_deps[LGKPJ] 0
+fd_chem WGXGV, fd_amount 43, reaction_count 6
+8 WGXGV <= 1 CQLRM, 1 HMTC
+new_fuel_deps[CQLRM] 292, new_fuel_deps[WGXGV] -5
+new_fuel_deps[HMTC] 129, new_fuel_deps[WGXGV] -5
+fd_chem PQVBV, fd_amount 114, reaction_count 19
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] 2510, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] 349, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] 230, new_fuel_deps[PQVBV] 0
+fd_chem FKHRJ, fd_amount 0, reaction_count 0
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 599, new_fuel_deps[FKHRJ] 0
+fd_chem BMQM, fd_amount 599, reaction_count 100
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 602, new_fuel_deps[BMQM] -1
+new_fuel_deps[XVLBX] 116, new_fuel_deps[BMQM] -1
+fd_chem QPSDR, fd_amount 102, reaction_count 15
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 11738, new_fuel_deps[QPSDR] 497
+fd_chem ZRSFC, fd_amount 425, reaction_count 48
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] 42, new_fuel_deps[ZRSFC] -7
+new_fuel_deps[XNSVC] 629, new_fuel_deps[ZRSFC] -7
+fd_chem SRGL, fd_amount 50, reaction_count 8
+7 SRGL <= 2 ZRSFC
+new_fuel_deps[ZRSFC] 9, new_fuel_deps[SRGL] -6
+fd_chem XNSVC, fd_amount 437, reaction_count 73
+6 XNSVC <= 2 LFPNB
+new_fuel_deps[LFPNB] 150, new_fuel_deps[XNSVC] 191
+fd_chem FGCV, fd_amount 1199, reaction_count 200
+6 FGCV <= 1 BMQM
+new_fuel_deps[BMQM] 199, new_fuel_deps[FGCV] 1310
+fd_chem CQLRM, fd_amount 286, reaction_count 58
+5 CQLRM <= 42 XVLBX
+new_fuel_deps[XVLBX] 2552, new_fuel_deps[CQLRM] 59
+fd_chem TFKZ, fd_amount 211, reaction_count 71
+3 TFKZ <= 1 JPZT
+new_fuel_deps[JPZT] 117, new_fuel_deps[TFKZ] 17
+fd_chem KJCK, fd_amount 0, reaction_count 0
+7 KJCK <= 16 JPZT, 3 DCPW
+new_fuel_deps[JPZT] 117, new_fuel_deps[KJCK] 0
+new_fuel_deps[DCPW] 0, new_fuel_deps[KJCK] 0
+fd_chem JPZT, fd_amount 46, reaction_count 6
+9 JPZT <= 2 QFTW
+new_fuel_deps[QFTW] 18, new_fuel_deps[JPZT] 63
+fd_chem DCPW, fd_amount 0, reaction_count 0
+9 DCPW <= 24 FKHRJ
+new_fuel_deps[FKHRJ] 0, new_fuel_deps[DCPW] 0
+fd_chem LFPNB, fd_amount 4, reaction_count 1
+8 LFPNB <= 9 JPZT
+new_fuel_deps[JPZT] 72, new_fuel_deps[LFPNB] 142
+fd_chem QWMZQ, fd_amount 112, reaction_count 28
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] 70, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] 387, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] 129, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem HMTC, fd_amount 123, reaction_count 18
+7 HMTC <= 5 XNPDM, 1 FGCV
+new_fuel_deps[XNPDM] 140, new_fuel_deps[HMTC] 3
+new_fuel_deps[FGCV] 1328, new_fuel_deps[HMTC] 3
+fd_chem CDKV, fd_amount 19, reaction_count 3
+8 CDKV <= 2 JPZT
+new_fuel_deps[JPZT] 78, new_fuel_deps[CDKV] 1644
+fd_chem XNPDM, fd_amount 50, reaction_count 8
+7 XNPDM <= 2 XVLBX, 19 KPQPD
+new_fuel_deps[XVLBX] 2568, new_fuel_deps[XNPDM] 84
+new_fuel_deps[KPQPD] 149, new_fuel_deps[XNPDM] 84
+fd_chem QFTW, fd_amount 6, reaction_count 6
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 12434, new_fuel_deps[QFTW] 12
+fd_chem KRDGK, fd_amount 8, reaction_count 2
+6 KRDGK <= 9 KJCK, 6 MHQVS, 5 NVBH
+new_fuel_deps[KJCK] 18, new_fuel_deps[KRDGK] -4
+new_fuel_deps[MHQVS] 12, new_fuel_deps[KRDGK] -4
+new_fuel_deps[NVBH] 10, new_fuel_deps[KRDGK] -4
+fd_chem GQRB, fd_amount 21, reaction_count 3
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] 21, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] 20, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] 393, new_fuel_deps[GQRB] 0
+fd_chem XVLBX, fd_amount 16, reaction_count 3
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 12968, new_fuel_deps[XVLBX] 2550
+fd_chem MHQVS, fd_amount 0, reaction_count 0
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] 70, new_fuel_deps[MHQVS] 12
+new_fuel_deps[DSKH] 26, new_fuel_deps[MHQVS] 12
+fd_chem DSKH, fd_amount 26, reaction_count 4
+7 DSKH <= 5 KJCK, 10 DCPW
+new_fuel_deps[KJCK] 41, new_fuel_deps[DSKH] -2
+new_fuel_deps[DCPW] 40, new_fuel_deps[DSKH] -2
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 10, 'SHQN': 70, 'CDKV': 1644, 'FGCV': 1328, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 9, 'PQVBV': 0, 'SRGL': -6, 'LGKPJ': 0, 'WGXGV': -5, 'CQLRM': 59, 'HMTC': 3, 'TFKZ': 20, 'FKHRJ': 0, 'BMQM': 199, 'QPSDR': 497, 'XVLBX': 2550, 'ORE': 12968, 'XNSVC': 393, 'LFPNB': 142, 'JPZT': 78, 'KJCK': 41, 'DCPW': 40, 'QFTW': 12, 'QWMZQ': 0, 'FCFG': 0, 'XNPDM': 84, 'KPQPD': 149, 'KRDGK': -4, 'MHQVS': 12, 'GQRB': 0, 'DSKH': -2}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 10, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] 70, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 10, reaction_count 10
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 1674, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] 1438, new_fuel_deps[NVBH] 0
+fd_chem SHQN, fd_amount 70, reaction_count 10
+7 SHQN <= 11 CDKV
+new_fuel_deps[CDKV] 1784, new_fuel_deps[SHQN] 0
+fd_chem CDKV, fd_amount 1644, reaction_count 206
+8 CDKV <= 2 JPZT
+new_fuel_deps[JPZT] 490, new_fuel_deps[CDKV] 136
+fd_chem FGCV, fd_amount 1328, reaction_count 222
+6 FGCV <= 1 BMQM
+new_fuel_deps[BMQM] 421, new_fuel_deps[FGCV] 106
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 9, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] -6, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 9, reaction_count 1
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] 1, new_fuel_deps[ZRSFC] 0
+new_fuel_deps[XNSVC] 397, new_fuel_deps[ZRSFC] 0
+fd_chem PQVBV, fd_amount 0, reaction_count 0
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] 106, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] 59, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] 20, new_fuel_deps[PQVBV] 0
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] -5, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[LGKPJ] 0
+fd_chem CQLRM, fd_amount 59, reaction_count 12
+5 CQLRM <= 42 XVLBX
+new_fuel_deps[XVLBX] 3054, new_fuel_deps[CQLRM] -1
+fd_chem HMTC, fd_amount 3, reaction_count 1
+7 HMTC <= 5 XNPDM, 1 FGCV
+new_fuel_deps[XNPDM] 89, new_fuel_deps[HMTC] -4
+new_fuel_deps[FGCV] 107, new_fuel_deps[HMTC] -4
+fd_chem TFKZ, fd_amount 20, reaction_count 7
+3 TFKZ <= 1 JPZT
+new_fuel_deps[JPZT] 497, new_fuel_deps[TFKZ] -1
+fd_chem FKHRJ, fd_amount 0, reaction_count 0
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 421, new_fuel_deps[FKHRJ] 0
+fd_chem BMQM, fd_amount 199, reaction_count 34
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 667, new_fuel_deps[BMQM] 217
+new_fuel_deps[XVLBX] 3088, new_fuel_deps[BMQM] 217
+fd_chem QPSDR, fd_amount 497, reaction_count 71
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 22056, new_fuel_deps[QPSDR] 170
+fd_chem XVLBX, fd_amount 2550, reaction_count 425
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 97706, new_fuel_deps[XVLBX] 538
+fd_chem XNSVC, fd_amount 393, reaction_count 66
+6 XNSVC <= 2 LFPNB
+new_fuel_deps[LFPNB] 274, new_fuel_deps[XNSVC] 1
+fd_chem LFPNB, fd_amount 142, reaction_count 18
+8 LFPNB <= 9 JPZT
+new_fuel_deps[JPZT] 659, new_fuel_deps[LFPNB] 130
+fd_chem JPZT, fd_amount 78, reaction_count 9
+9 JPZT <= 2 QFTW
+new_fuel_deps[QFTW] 30, new_fuel_deps[JPZT] 578
+fd_chem KJCK, fd_amount 41, reaction_count 6
+7 KJCK <= 16 JPZT, 3 DCPW
+new_fuel_deps[JPZT] 674, new_fuel_deps[KJCK] -1
+new_fuel_deps[DCPW] 58, new_fuel_deps[KJCK] -1
+fd_chem DCPW, fd_amount 40, reaction_count 5
+9 DCPW <= 24 FKHRJ
+new_fuel_deps[FKHRJ] 120, new_fuel_deps[DCPW] 13
+fd_chem QFTW, fd_amount 12, reaction_count 12
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 99098, new_fuel_deps[QFTW] 18
+fd_chem QWMZQ, fd_amount 0, reaction_count 0
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] 1, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] 1, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] -4, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem XNPDM, fd_amount 84, reaction_count 12
+7 XNPDM <= 2 XVLBX, 19 KPQPD
+new_fuel_deps[XVLBX] 562, new_fuel_deps[XNPDM] 5
+new_fuel_deps[KPQPD] 377, new_fuel_deps[XNPDM] 5
+fd_chem KPQPD, fd_amount 149, reaction_count 25
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] 295, new_fuel_deps[KPQPD] 227
+fd_chem MHQVS, fd_amount 12, reaction_count 4
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] 5, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] 50, new_fuel_deps[MHQVS] 0
+fd_chem GQRB, fd_amount 0, reaction_count 0
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] 1, new_fuel_deps[GQRB] 0
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 0, 'SHQN': 5, 'CDKV': 136, 'FGCV': 107, 'JPZT': 674, 'BMQM': 217, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 0, 'PQVBV': 0, 'SRGL': -6, 'XNSVC': 1, 'CQLRM': -1, 'TFKZ': -1, 'LGKPJ': 0, 'WGXGV': -5, 'XVLBX': 562, 'HMTC': -4, 'XNPDM': 5, 'FKHRJ': 120, 'QPSDR': 295, 'ORE': 99098, 'LFPNB': 130, 'QFTW': 18, 'KJCK': -1, 'DCPW': 13, 'QWMZQ': 0, 'FCFG': 0, 'KPQPD': 227, 'MHQVS': 0, 'DSKH': 50, 'GQRB': 0}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 0, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] 5, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 136, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] 107, new_fuel_deps[NVBH] 0
+fd_chem SHQN, fd_amount 5, reaction_count 1
+7 SHQN <= 11 CDKV
+new_fuel_deps[CDKV] 147, new_fuel_deps[SHQN] -2
+fd_chem CDKV, fd_amount 136, reaction_count 17
+8 CDKV <= 2 JPZT
+new_fuel_deps[JPZT] 708, new_fuel_deps[CDKV] 11
+fd_chem FGCV, fd_amount 107, reaction_count 18
+6 FGCV <= 1 BMQM
+new_fuel_deps[BMQM] 235, new_fuel_deps[FGCV] -1
+fd_chem JPZT, fd_amount 674, reaction_count 75
+9 JPZT <= 2 QFTW
+new_fuel_deps[QFTW] 168, new_fuel_deps[JPZT] 33
+fd_chem BMQM, fd_amount 217, reaction_count 37
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 480, new_fuel_deps[BMQM] 13
+new_fuel_deps[XVLBX] 599, new_fuel_deps[BMQM] 13
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] -6, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 0, reaction_count 0
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[ZRSFC] 0
+new_fuel_deps[XNSVC] 1, new_fuel_deps[ZRSFC] 0
+fd_chem PQVBV, fd_amount 0, reaction_count 0
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[PQVBV] 0
+fd_chem XNSVC, fd_amount 1, reaction_count 1
+6 XNSVC <= 2 LFPNB
+new_fuel_deps[LFPNB] 132, new_fuel_deps[XNSVC] -5
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] -5, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[LGKPJ] 0
+fd_chem XVLBX, fd_amount 562, reaction_count 94
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 115830, new_fuel_deps[XVLBX] 35
+fd_chem XNPDM, fd_amount 5, reaction_count 1
+7 XNPDM <= 2 XVLBX, 19 KPQPD
+new_fuel_deps[XVLBX] 37, new_fuel_deps[XNPDM] -2
+new_fuel_deps[KPQPD] 246, new_fuel_deps[XNPDM] -2
+fd_chem FKHRJ, fd_amount 120, reaction_count 24
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 589, new_fuel_deps[FKHRJ] 0
+fd_chem QPSDR, fd_amount 295, reaction_count 43
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 121334, new_fuel_deps[QPSDR] 179
+fd_chem LFPNB, fd_amount 130, reaction_count 17
+8 LFPNB <= 9 JPZT
+new_fuel_deps[JPZT] 186, new_fuel_deps[LFPNB] -4
+fd_chem QFTW, fd_amount 18, reaction_count 18
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 123422, new_fuel_deps[QFTW] 150
+fd_chem DCPW, fd_amount 13, reaction_count 2
+9 DCPW <= 24 FKHRJ
+new_fuel_deps[FKHRJ] 48, new_fuel_deps[DCPW] -5
+fd_chem QWMZQ, fd_amount 0, reaction_count 0
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] -4, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem KPQPD, fd_amount 227, reaction_count 38
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] 369, new_fuel_deps[KPQPD] 18
+fd_chem MHQVS, fd_amount 0, reaction_count 0
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] -2, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] 50, new_fuel_deps[MHQVS] 0
+fd_chem DSKH, fd_amount 50, reaction_count 8
+7 DSKH <= 5 KJCK, 10 DCPW
+new_fuel_deps[KJCK] 39, new_fuel_deps[DSKH] -6
+new_fuel_deps[DCPW] 75, new_fuel_deps[DSKH] -6
+fd_chem GQRB, fd_amount 0, reaction_count 0
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] 39, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[GQRB] 0
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 0, 'SHQN': -2, 'CDKV': 11, 'FGCV': -1, 'JPZT': 186, 'BMQM': 589, 'QFTW': 150, 'QPSDR': 369, 'XVLBX': 37, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 0, 'PQVBV': 0, 'SRGL': -6, 'XNSVC': -5, 'CQLRM': -1, 'TFKZ': -1, 'LFPNB': -4, 'LGKPJ': 0, 'WGXGV': -5, 'ORE': 123422, 'XNPDM': -2, 'KPQPD': 18, 'FKHRJ': 48, 'DCPW': 75, 'QWMZQ': 0, 'FCFG': 0, 'HMTC': -4, 'MHQVS': 0, 'DSKH': -6, 'KJCK': 39, 'GQRB': 0}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 0, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] -2, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] 11, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] -1, new_fuel_deps[NVBH] 0
+fd_chem CDKV, fd_amount 11, reaction_count 2
+8 CDKV <= 2 JPZT
+new_fuel_deps[JPZT] 190, new_fuel_deps[CDKV] -5
+fd_chem JPZT, fd_amount 186, reaction_count 21
+9 JPZT <= 2 QFTW
+new_fuel_deps[QFTW] 192, new_fuel_deps[JPZT] 1
+fd_chem BMQM, fd_amount 589, reaction_count 99
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 864, new_fuel_deps[BMQM] -5
+new_fuel_deps[XVLBX] 136, new_fuel_deps[BMQM] -5
+fd_chem QFTW, fd_amount 150, reaction_count 150
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 140822, new_fuel_deps[QFTW] 42
+fd_chem QPSDR, fd_amount 369, reaction_count 53
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 147606, new_fuel_deps[QPSDR] 493
+fd_chem XVLBX, fd_amount 37, reaction_count 7
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 148852, new_fuel_deps[XVLBX] 94
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] -6, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 0, reaction_count 0
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[ZRSFC] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[ZRSFC] 0
+fd_chem PQVBV, fd_amount 0, reaction_count 0
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[PQVBV] 0
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] -5, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[LGKPJ] 0
+fd_chem KPQPD, fd_amount 18, reaction_count 3
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] 508, new_fuel_deps[KPQPD] 0
+fd_chem FKHRJ, fd_amount 48, reaction_count 10
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 235, new_fuel_deps[FKHRJ] -2
+fd_chem DCPW, fd_amount 75, reaction_count 9
+9 DCPW <= 24 FKHRJ
+new_fuel_deps[FKHRJ] 214, new_fuel_deps[DCPW] -6
+fd_chem QWMZQ, fd_amount 0, reaction_count 0
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] -4, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem MHQVS, fd_amount 0, reaction_count 0
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] -2, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] -6, new_fuel_deps[MHQVS] 0
+fd_chem KJCK, fd_amount 39, reaction_count 6
+7 KJCK <= 16 JPZT, 3 DCPW
+new_fuel_deps[JPZT] 97, new_fuel_deps[KJCK] -3
+new_fuel_deps[DCPW] 12, new_fuel_deps[KJCK] -3
+fd_chem GQRB, fd_amount 0, reaction_count 0
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -3, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[GQRB] 0
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 0, 'SHQN': -2, 'CDKV': -5, 'FGCV': -1, 'JPZT': 97, 'QFTW': 42, 'BMQM': 235, 'QPSDR': 508, 'XVLBX': 94, 'ORE': 148852, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 0, 'PQVBV': 0, 'SRGL': -6, 'XNSVC': -5, 'CQLRM': -1, 'TFKZ': -1, 'LGKPJ': 0, 'WGXGV': -5, 'KPQPD': 0, 'FKHRJ': 214, 'DCPW': 12, 'QWMZQ': 0, 'FCFG': 0, 'HMTC': -4, 'MHQVS': 0, 'DSKH': -6, 'KJCK': -3, 'GQRB': 0}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 0, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] -2, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] -5, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] -1, new_fuel_deps[NVBH] 0
+fd_chem JPZT, fd_amount 97, reaction_count 11
+9 JPZT <= 2 QFTW
+new_fuel_deps[QFTW] 64, new_fuel_deps[JPZT] -2
+fd_chem QFTW, fd_amount 42, reaction_count 42
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 153724, new_fuel_deps[QFTW] 22
+fd_chem BMQM, fd_amount 235, reaction_count 40
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 708, new_fuel_deps[BMQM] -5
+new_fuel_deps[XVLBX] 134, new_fuel_deps[BMQM] -5
+fd_chem QPSDR, fd_amount 508, reaction_count 73
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 163068, new_fuel_deps[QPSDR] 197
+fd_chem XVLBX, fd_amount 94, reaction_count 16
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 165916, new_fuel_deps[XVLBX] 38
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] -6, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 0, reaction_count 0
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[ZRSFC] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[ZRSFC] 0
+fd_chem PQVBV, fd_amount 0, reaction_count 0
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[PQVBV] 0
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] -5, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[LGKPJ] 0
+fd_chem KPQPD, fd_amount 0, reaction_count 0
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] 197, new_fuel_deps[KPQPD] 0
+fd_chem FKHRJ, fd_amount 214, reaction_count 43
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 1027, new_fuel_deps[FKHRJ] -1
+fd_chem DCPW, fd_amount 12, reaction_count 2
+9 DCPW <= 24 FKHRJ
+new_fuel_deps[FKHRJ] 47, new_fuel_deps[DCPW] -6
+fd_chem QWMZQ, fd_amount 0, reaction_count 0
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] -4, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem MHQVS, fd_amount 0, reaction_count 0
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] -2, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] -6, new_fuel_deps[MHQVS] 0
+fd_chem GQRB, fd_amount 0, reaction_count 0
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -3, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[GQRB] 0
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 0, 'SHQN': -2, 'CDKV': -5, 'FGCV': -1, 'JPZT': -2, 'QFTW': 22, 'ORE': 165916, 'BMQM': 1027, 'QPSDR': 197, 'XVLBX': 38, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 0, 'PQVBV': 0, 'SRGL': -6, 'XNSVC': -5, 'CQLRM': -1, 'TFKZ': -1, 'LGKPJ': 0, 'WGXGV': -5, 'KPQPD': 0, 'FKHRJ': 47, 'DCPW': -6, 'QWMZQ': 0, 'FCFG': 0, 'HMTC': -4, 'MHQVS': 0, 'DSKH': -6, 'GQRB': 0, 'KJCK': -3}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 0, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] -2, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] -5, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] -1, new_fuel_deps[NVBH] 0
+fd_chem QFTW, fd_amount 22, reaction_count 22
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 168468, new_fuel_deps[QFTW] 0
+fd_chem BMQM, fd_amount 1027, reaction_count 172
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 1057, new_fuel_deps[BMQM] -5
+new_fuel_deps[XVLBX] 210, new_fuel_deps[BMQM] -5
+fd_chem QPSDR, fd_amount 197, reaction_count 29
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 172180, new_fuel_deps[QPSDR] 854
+fd_chem XVLBX, fd_amount 38, reaction_count 7
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 173426, new_fuel_deps[XVLBX] 168
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] -6, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 0, reaction_count 0
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[ZRSFC] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[ZRSFC] 0
+fd_chem PQVBV, fd_amount 0, reaction_count 0
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[PQVBV] 0
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] -5, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[LGKPJ] 0
+fd_chem KPQPD, fd_amount 0, reaction_count 0
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] 854, new_fuel_deps[KPQPD] 0
+fd_chem FKHRJ, fd_amount 47, reaction_count 10
+5 FKHRJ <= 24 BMQM
+new_fuel_deps[BMQM] 235, new_fuel_deps[FKHRJ] -3
+fd_chem QWMZQ, fd_amount 0, reaction_count 0
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] -4, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem MHQVS, fd_amount 0, reaction_count 0
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] -2, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] -6, new_fuel_deps[MHQVS] 0
+fd_chem GQRB, fd_amount 0, reaction_count 0
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -3, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[GQRB] 0
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 0, 'SHQN': -2, 'CDKV': -5, 'FGCV': -1, 'QFTW': 0, 'ORE': 173426, 'BMQM': 235, 'QPSDR': 854, 'XVLBX': 168, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 0, 'PQVBV': 0, 'SRGL': -6, 'XNSVC': -5, 'CQLRM': -1, 'TFKZ': -1, 'LGKPJ': 0, 'WGXGV': -5, 'KPQPD': 0, 'FKHRJ': -3, 'QWMZQ': 0, 'FCFG': 0, 'HMTC': -4, 'MHQVS': 0, 'DSKH': -6, 'GQRB': 0, 'KJCK': -3}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 0, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] -2, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] -5, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] -1, new_fuel_deps[NVBH] 0
+fd_chem QFTW, fd_amount 0, reaction_count 0
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 173426, new_fuel_deps[QFTW] 0
+fd_chem BMQM, fd_amount 235, reaction_count 40
+6 BMQM <= 5 QPSDR, 1 XVLBX
+new_fuel_deps[QPSDR] 1054, new_fuel_deps[BMQM] -5
+new_fuel_deps[XVLBX] 208, new_fuel_deps[BMQM] -5
+fd_chem QPSDR, fd_amount 854, reaction_count 122
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 189042, new_fuel_deps[QPSDR] 200
+fd_chem XVLBX, fd_amount 168, reaction_count 28
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 194026, new_fuel_deps[XVLBX] 40
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] -6, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 0, reaction_count 0
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[ZRSFC] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[ZRSFC] 0
+fd_chem PQVBV, fd_amount 0, reaction_count 0
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[PQVBV] 0
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] -5, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[LGKPJ] 0
+fd_chem KPQPD, fd_amount 0, reaction_count 0
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] 200, new_fuel_deps[KPQPD] 0
+fd_chem QWMZQ, fd_amount 0, reaction_count 0
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] -4, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem MHQVS, fd_amount 0, reaction_count 0
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] -2, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] -6, new_fuel_deps[MHQVS] 0
+fd_chem GQRB, fd_amount 0, reaction_count 0
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -3, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[GQRB] 0
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 0, 'SHQN': -2, 'CDKV': -5, 'FGCV': -1, 'QFTW': 0, 'ORE': 194026, 'BMQM': -5, 'QPSDR': 200, 'XVLBX': 40, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 0, 'PQVBV': 0, 'SRGL': -6, 'XNSVC': -5, 'CQLRM': -1, 'TFKZ': -1, 'LGKPJ': 0, 'WGXGV': -5, 'KPQPD': 0, 'QWMZQ': 0, 'FCFG': 0, 'HMTC': -4, 'MHQVS': 0, 'DSKH': -6, 'GQRB': 0, 'KJCK': -3}
+fd_chem NMDF, fd_amount 0, reaction_count 0
+2 NMDF <= 1 BNZK
+new_fuel_deps[BNZK] 0, new_fuel_deps[NMDF] 0
+fd_chem BNZK, fd_amount 0, reaction_count 0
+4 BNZK <= 5 NVBH, 41 SHQN
+new_fuel_deps[NVBH] 0, new_fuel_deps[BNZK] 0
+new_fuel_deps[SHQN] -2, new_fuel_deps[BNZK] 0
+fd_chem NVBH, fd_amount 0, reaction_count 0
+1 NVBH <= 3 CDKV, 11 FGCV
+new_fuel_deps[CDKV] -5, new_fuel_deps[NVBH] 0
+new_fuel_deps[FGCV] -1, new_fuel_deps[NVBH] 0
+fd_chem QFTW, fd_amount 0, reaction_count 0
+1 QFTW <= 116 ORE
+new_fuel_deps[ORE] 194026, new_fuel_deps[QFTW] 0
+fd_chem QPSDR, fd_amount 200, reaction_count 29
+7 QPSDR <= 128 ORE
+new_fuel_deps[ORE] 197738, new_fuel_deps[QPSDR] -3
+fd_chem XVLBX, fd_amount 40, reaction_count 7
+6 XVLBX <= 178 ORE
+new_fuel_deps[ORE] 198984, new_fuel_deps[XVLBX] -2
+fd_chem DBLGK, fd_amount 0, reaction_count 0
+9 DBLGK <= 1 CWKH
+new_fuel_deps[CWKH] -4, new_fuel_deps[DBLGK] 0
+fd_chem SPNRW, fd_amount 0, reaction_count 0
+3 SPNRW <= 15 ZRSFC, 2 PQVBV, 2 SRGL
+new_fuel_deps[ZRSFC] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[SPNRW] 0
+new_fuel_deps[SRGL] -6, new_fuel_deps[SPNRW] 0
+fd_chem ZRSFC, fd_amount 0, reaction_count 0
+9 ZRSFC <= 1 SHQN, 4 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[ZRSFC] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[ZRSFC] 0
+fd_chem PQVBV, fd_amount 0, reaction_count 0
+6 PQVBV <= 14 FGCV, 3 CQLRM, 1 TFKZ
+new_fuel_deps[FGCV] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[CQLRM] -1, new_fuel_deps[PQVBV] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[PQVBV] 0
+fd_chem LGKPJ, fd_amount 0, reaction_count 0
+1 LGKPJ <= 4 WGXGV, 5 PQVBV
+new_fuel_deps[WGXGV] -5, new_fuel_deps[LGKPJ] 0
+new_fuel_deps[PQVBV] 0, new_fuel_deps[LGKPJ] 0
+fd_chem KPQPD, fd_amount 0, reaction_count 0
+6 KPQPD <= 5 QPSDR
+new_fuel_deps[QPSDR] -3, new_fuel_deps[KPQPD] 0
+fd_chem QWMZQ, fd_amount 0, reaction_count 0
+4 QWMZQ <= 1 SHQN, 7 XNSVC
+new_fuel_deps[SHQN] -2, new_fuel_deps[QWMZQ] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[QWMZQ] 0
+fd_chem FCFG, fd_amount 0, reaction_count 0
+2 FCFG <= 3 HMTC, 4 QWMZQ
+new_fuel_deps[HMTC] -4, new_fuel_deps[FCFG] 0
+new_fuel_deps[QWMZQ] 0, new_fuel_deps[FCFG] 0
+fd_chem MHQVS, fd_amount 0, reaction_count 0
+3 MHQVS <= 1 SHQN, 13 DSKH
+new_fuel_deps[SHQN] -2, new_fuel_deps[MHQVS] 0
+new_fuel_deps[DSKH] -6, new_fuel_deps[MHQVS] 0
+fd_chem GQRB, fd_amount 0, reaction_count 0
+7 GQRB <= 1 KJCK, 1 TFKZ, 2 XNSVC
+new_fuel_deps[KJCK] -3, new_fuel_deps[GQRB] 0
+new_fuel_deps[TFKZ] -1, new_fuel_deps[GQRB] 0
+new_fuel_deps[XNSVC] -5, new_fuel_deps[GQRB] 0
+{'NMDF': 0, 'BNZK': 0, 'NVBH': 0, 'SHQN': -2, 'CDKV': -5, 'FGCV': -1, 'QFTW': 0, 'ORE': 198984, 'QPSDR': -3, 'XVLBX': -2, 'DBLGK': 0, 'CWKH': -4, 'SPNRW': 0, 'ZRSFC': 0, 'PQVBV': 0, 'SRGL': -6, 'XNSVC': -5, 'CQLRM': -1, 'TFKZ': -1, 'LGKPJ': 0, 'WGXGV': -5, 'KPQPD': 0, 'QWMZQ': 0, 'FCFG': 0, 'HMTC': -4, 'MHQVS': 0, 'DSKH': -6, 'GQRB': 0, 'KJCK': -3}
+198984
